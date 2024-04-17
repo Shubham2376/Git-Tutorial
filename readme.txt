@@ -13,3 +13,6 @@
 `commit` : commit is a particular version of the project . It captures the Snapshot of the project staged changes and creates a version out of it
 
 `git commit` : registers staging changes to a commit.
+
+`git log` : lists down all the commits of the repository.If you want to exit out of git prompt press `q`.
+  
