@@ -15,4 +15,8 @@
 `git commit` : registers staging changes to a commit.
 
 `git log` : lists down all the commits of the repository.If you want to exit out of git prompt press `q`.
+
+`git restore <filename>` : it remove all files changes from the staging Area to be committed. This can be useful , if we did some dirty pieceOf code and now no more want it instead of deleting every change Line by line we can restore or we can say restore last version of the file
+
+hello 
   
