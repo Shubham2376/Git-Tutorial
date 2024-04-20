@@ -34,4 +34,8 @@ Remote connections -> It helps us you to link two git repositories for uploading
 
 `git remote rename <oldname> <newname>` : this command renames the remote connection
 
+`git add <file1> <file2> <file3>` : This command will add multiple file changes together in the staging area
+
+`git add . ` : this command will add all files from the working repo to the staging area.
+
 Note : The name of the remote connection is always used to establish the communication between the repos
