@@ -10,7 +10,7 @@
 
 `git rm --cached <file>` : moves file back from staging area to working area.
 
-`commit` : commit is a particular version of the project . It captures the Snapshot of the project staged changes and creates a version out of it
+`commit` : commit is a particular version of the project . It captures the Snapshot of the project staged changes and creates a version out of it.
 
 `git commit` : registers staging changes to a commit.
 
