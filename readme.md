@@ -4,7 +4,7 @@
 
 `Staging area` - what all files are going to be part of the next version that we will create. This staging area is the place from which git knows what changes will be done from last version to next version.
 
-`Repository area` : This area actually contains the details of all your previous registered versions.whenever we registered a version all of that data is stored in this area. All the files in this area git already manage them and know their version history
+`Repository area` : This area actually contains the details of all your previous registered versions.whenever we registered a version all of that data is stored in this area. All the files in this area git already manage them and know their version history.
 
 `git add <file>` : this moves file from working area to staging area.
 
