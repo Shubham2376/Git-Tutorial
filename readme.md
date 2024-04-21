@@ -16,7 +16,7 @@
 
 `git log` : lists down all the commits of the repository.If you want to exit out of git prompt press `q`.
 
-`git restore <filename>` : it remove all files changes from the staging Area to be committed. This can be useful , if we did some dirty pieceOf code and now no more want it instead of deleting every change Line by line we can restore or we can say restore last version of the file
+`git restore <filename>` : it remove all files changes from the staging Area to be committed. This can be useful , if we did some dirty pieceOf code and now no more want it instead of deleting every change Line by line we can restore or we can say restore last version of the file.
 
 `Difference between git rm and git restore`: when we want to move Whole file back to untracked area we do git rm otherwise if we just Want to changes to be moved to working or staging area then we do git restore.
 
