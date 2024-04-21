@@ -53,3 +53,5 @@ Note : The name of the remote connection is always used to establish the communi
 hello
 
 merge conflict can occur if multiple people try to make change tu the same file, and then collaborate.
+
+merge conflict are a very comman scenario
