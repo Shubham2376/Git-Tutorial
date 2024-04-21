@@ -22,7 +22,7 @@
 
 git diff commit1 commit2 : it gives the Difference of all files changes between two commit
 
-git commit -m "<commit message>" : if we want to avoid to open a text editor like vim/nano to add commit message we can use this command
+git commit -m "<commit message>" : if we want to avoid to open a text editor like vim/nano to add commit message we can use this command.
 
 `git remote` : list down all the remote connections names.
 
