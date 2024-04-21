@@ -39,3 +39,5 @@ Remote connections -> It helps us you to link two git repositories for uploading
 `git add . ` : this command will add all files from the working repo to the staging area.
 
 Note : The name of the remote connection is always used to establish the communication between the repos.
+
+`git pull <remote name> <branch name>` : Downloads latest change from branch of mentioned remote in our local repo.
