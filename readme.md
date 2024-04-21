@@ -51,3 +51,5 @@ Note : The name of the remote connection is always used to establish the communi
 
 .
 hello
+
+merge conflict are a very comman scenario
